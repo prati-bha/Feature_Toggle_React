@@ -1,0 +1,6 @@
+projectKey=feature-toggle-demo
+serverUrl=https://newreview.innovify.com
+serverVersion=6.7.2.37468
+dashboardUrl=https://newreview.innovify.com/dashboard/index/feature-toggle-demo
+ceTaskId=AXE1EoylXV7-niNZNZbs
+ceTaskUrl=https://newreview.innovify.com/api/ce/task?id=AXE1EoylXV7-niNZNZbs
